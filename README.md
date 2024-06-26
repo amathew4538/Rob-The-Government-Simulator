@@ -1,6 +1,6 @@
 # Rob-The-Government-Simulator
 ## This is Rob The Government Simulator
-Rob The Government is an open-source game in which the code, models, textures, animations, etc. you, the reader, make will be added to the game in Unreal Engine and playable for free in itch.io.
+Rob The Government is an open-source multiplayer game in which the code, models, textures, animations, etc. you, the reader, make will be added to the game in Unreal Engine and playable for free in itch.io.
 
 # Rules
 SFW Content only (I'm not getting in trouble for that bro)
