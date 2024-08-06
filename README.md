@@ -3,17 +3,17 @@
 Rob The Government is an open-source multiplayer game in which the code, models, textures, animations, etc. you, the reader, make will be added to the game in Unreal Engine and playable for free in itch.io.
 
 # Rules
-SFW Content only (I'm not getting in trouble for that bro)
+SFW Content only
 
-No deleting other's code for no reason (basically, don't be a stupid, annoying troll)
+No deleting other's code for no reason
 
-Only share useful info with others (don't annoy people)
+Only share useful info with others
 
-No stealing any assets that have been created (it's Rob The Government Sim, not Rob The Hard-Working Contributors Sim.)
+No stealing any assets that have been created
 
-Please only write code in C++ (It's the native language so it makes my life easier.)
+Please only write code in C++
 
-### ***All violators will be banned (or warned if you use the wrong code).***
+### ***All violators will be warned and/or banned.***
 
 
 # Links:
